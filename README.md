@@ -3,16 +3,17 @@
 I'm a Robotics master student thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
 
 <!-- Light Mode -->
+<summary><b>🙈 🙉 🙊 My Experience</b></summary>
 <div align="center">
 
-<summary><b>(,,◕　⋏　◕,,) My Experience (,,◕　⋏　◕,,)</b></summary>
-<p>
+<>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PhonlatatKathintip&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="H2oz Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhonlatatKathintip&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="H2oz Github stats" />
 </a>
+
 </div>
 
 <!-- Dark Mode -->
@@ -26,7 +27,7 @@ I'm a Robotics master student thats very passionate about solving complicated pr
 </div>
 
 <div>
-<summary><b>(◐ω◑ ) Github Streaks (◐ω◑ )</b></summary>
+<summary><b>🎏 Github Streaks</b></summary>
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhonlatatKathintip&hide_border=true" />
 </p>
