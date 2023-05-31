@@ -3,8 +3,9 @@
 I'm a Robotics master student thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
 
 <!-- Light Mode -->
-<div align="center"> 
-<summary><b>🙈 🙉 🙊 My Experience</b></summary>
+<div align="center">
+
+<summary><b>(,,◕　⋏　◕,,) My Experience (,,◕　⋏　◕,,)</b></summary>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PhonlatatKathintip&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="H2oz Language stats" />
@@ -25,7 +26,7 @@ I'm a Robotics master student thats very passionate about solving complicated pr
 </div>
 
 <div>
-<summary><b>🎏 Github Streaks</b></summary>
+<summary><b>(◐ω◑ ) Github Streaks (◐ω◑ )</b></summary>
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhonlatatKathintip&hide_border=true" />
 </p>
