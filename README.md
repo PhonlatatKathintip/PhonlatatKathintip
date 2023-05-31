@@ -5,6 +5,7 @@ I'm a Robotics master student thats very passionate about solving complicated pr
 <!-- Light Mode -->
 <div align="center"> 
 <summary><b>🙈 🙉 🙊 My Experience</b></summary>
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PhonlatatKathintip&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="H2oz Language stats" />
 </a>
