@@ -1,3 +1,9 @@
+### Hey 👋, I'm Rick
+
+[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+
+I'm a Robotics master student thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
